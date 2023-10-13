@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 -Routers
 -Hook useParams
 -Concatenar Url imagen
+-Css flexbox
+-styles.modules en React
